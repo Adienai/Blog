@@ -1,0 +1,14 @@
+C:\Users\astal\source\repos\Blog\Blog.DLL\bin\Debug\net7.0\Blog.DLL.deps.json
+C:\Users\astal\source\repos\Blog\Blog.DLL\bin\Debug\net7.0\Blog.DLL.runtimeconfig.json
+C:\Users\astal\source\repos\Blog\Blog.DLL\bin\Debug\net7.0\Blog.DLL.dll
+C:\Users\astal\source\repos\Blog\Blog.DLL\bin\Debug\net7.0\Blog.DLL.pdb
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\Blog.DLL.csproj.AssemblyReference.cache
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\Blog.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\Blog.DLL.AssemblyInfoInputs.cache
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\Blog.DLL.AssemblyInfo.cs
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\Blog.DLL.csproj.CoreCompileInputs.cache
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\Blog.DLL.dll
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\refint\Blog.DLL.dll
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\Blog.DLL.pdb
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\Blog.DLL.genruntimeconfig.cache
+C:\Users\astal\source\repos\Blog\Blog.DLL\obj\Debug\net7.0\ref\Blog.DLL.dll
